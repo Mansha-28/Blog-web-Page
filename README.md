@@ -6,7 +6,7 @@ The web application is built using react and nodejs and database used is mongoos
  but to upload blog user has to create account. user can edit their blog if neccessary.
  
  In the project directory
- for running the web user has to insert .env file URL of mongoose DATABASE ans then
+ for running the web user has to insert .env file # `URL` of mongoose DATABASE and then
  ## `npm install`
  ## `npm start` 
   in both the directory api and client.
