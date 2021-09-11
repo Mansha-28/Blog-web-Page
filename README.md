@@ -11,5 +11,5 @@ The web application is built using react and nodejs and database used is mongoos
  ## `npm start` 
   in both the directory api and client.
   
- ##Purpose
+ ## Purpose
  The MERN web application is used to share the ideas and something new for the other people for knowledge and other purpose..
