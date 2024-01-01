@@ -7,6 +7,9 @@ The web application is built using react and nodejs and database used is mongoos
  
  In the project directory
  for running the web user has to insert .env file # `URL` of mongoose DATABASE and then
+
+ use node version 14 - 17
+ 
  ## `npm install`
  ## `npm start` 
   in both the directory api and client.
